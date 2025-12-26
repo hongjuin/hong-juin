@@ -29,3 +29,5 @@ game28.dta
 
 # Log files
 warnings.log
+
+echo "hello world!" >file1.txt
